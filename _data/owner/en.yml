@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Your Brand"
+brand: "Viivid"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Your Name"
+name: "박호인"
 
 # home page top header texts
 home:
@@ -53,7 +53,7 @@ contacts:
   #- linkedin: ""
   #- twitter: ""
   #- mastodon: ""
-  #- instagram: ""
+  - instagram: "b_55in"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
